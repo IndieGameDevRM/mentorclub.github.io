@@ -1,0 +1,35 @@
+button{
+    background-color: #e74c3c;
+    color:  white
+}
+.labeltext{
+    color: #7f8c8d
+}
+.loginform{
+    margin-left: 43%;
+    margin-top: 15%;   
+    
+}
+.box{
+    padding: 1%;
+    background-color: #fefefe;
+    margin:  10% auto  5% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 30%; /* Could be more or less, depending on screen size */
+    
+}
+.center{
+    
+    text-align: center;
+}
+.box2{
+    border-left: solid 70px transparent; 
+    border-right: solid 70px transparent; 
+    border-bottom: solid 70px #fff;
+    box-shadow: 0 0 30px #333;
+    height: 0; 
+    width: 0;
+}
+.textcolor{
+    color:#e74c3c
+}
