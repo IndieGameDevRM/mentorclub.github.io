@@ -15,8 +15,8 @@ button{
     background-color: #fefefe;
     margin:  10% auto  5% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
-    width: 30%; /* Could be more or less, depending on screen size */
-    
+    width: 350px; /* Could be more or less, depending on screen size */
+   
 }
 .center{
     
@@ -33,3 +33,9 @@ button{
 .textcolor{
     color:#e74c3c
 }
+@media screen and (max-width:800px){
+    .box{
+        width: 200px;
+    }
+}
+
